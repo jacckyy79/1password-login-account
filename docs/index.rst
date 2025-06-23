@@ -5,7 +5,7 @@
    :maxdepth: 2
    :caption: Contents:
 
-.. image:: not-working.png
+.. image:: click-login.png
    :alt: My Project Logo
    :width: 400px
    :align: center
